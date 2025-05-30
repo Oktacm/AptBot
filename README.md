@@ -180,7 +180,7 @@ This Discord bot was developed to monitor various aspects of the Solana ecosyste
 
 *Token monitoring with verified badge detection*
 
-### Additional Features
+### Auto.fun Verified Badge Status Change
 <img width="510" alt="Screenshot 2025-05-30 at 13 10 09" src="https://github.com/user-attachments/assets/45d19e4f-687b-4214-8071-911eb1e16d68" />
 
 
