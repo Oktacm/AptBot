@@ -153,30 +153,35 @@ This Discord bot was developed to monitor various aspects of the Solana ecosyste
 ### Migration Monitoring in Action
 <img width="501" alt="Screenshot 2025-05-30 at 13 07 41" src="https://github.com/user-attachments/assets/6f33b54e-706d-48ac-aa3c-90d792499e63" />
 
-
+*Real-time token migration tracking with market cap analysis*
 
 ### DEX Payment Verification
 <img width="504" alt="Screenshot 2025-05-30 at 13 08 34" src="https://github.com/user-attachments/assets/3491543f-b872-4f81-b054-9a21ed4e6261" />
 
-
+*Automated payment status verification and monitoring*
 
 ### Trader Data Export
 <img width="597" alt="Screenshot 2025-05-30 at 13 08 58" src="https://github.com/user-attachments/assets/df85ebfd-7816-4256-a981-fc29b2b76cd2" />
 
-
+*CSV export functionality with performance metrics*
 
 ### News Integration
 <img width="588" alt="Screenshot 2025-05-30 at 13 09 12" src="https://github.com/user-attachments/assets/415ad1b6-eb39-45cb-a03d-d6d2f6f4b0a7" />
 
+*Real-time news monitoring*
 
-## Truth Social Monitor
+### Truth Social Monitor
 <img width="313" alt="Screenshot 2025-05-30 at 13 06 58" src="https://github.com/user-attachments/assets/11d93b9b-16cf-4b1e-9d1c-5dc21f318ac1" />
 
-## Auto-Fun Monitor with Verification
+*Social media monitoring with anti-detection techniques*
+
+### Auto.fun Monitor with Verification
 <img width="568" alt="Screenshot 2025-05-30 at 13 09 36" src="https://github.com/user-attachments/assets/d59d5ddb-668a-42cc-971a-f7e97029d55d" />
 
-<img width="510" alt="Screenshot 2025-05-30 at 13 10 09" src="https://github.com/user-attachments/assets/45d19e4f-687b-4214-8071-911eb1e16d68" />
+*Token monitoring with verified badge detection*
 
+### Additional Features
+<img width="510" alt="Screenshot 2025-05-30 at 13 10 09" src="https://github.com/user-attachments/assets/45d19e4f-687b-4214-8071-911eb1e16d68" />
 
 
 
