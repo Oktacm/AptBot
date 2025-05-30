@@ -152,19 +152,24 @@ This Discord bot was developed to monitor various aspects of the Solana ecosyste
 
 ### Migration Monitoring in Action
 ![Migration Monitoring](screenshots/bonding-command.png)
-*Real-time token migration tracking with market cap analysis*
+
 
 ### DEX Payment Verification
 ![DEX Checker](screenshots/dex-checker.png)
-*Automated payment status verification and monitoring*
+
 
 ### Trader Data Export
 ![Trader Export](screenshots/trader-export.png)
-*CSV export functionality with performance metrics*
+
 
 ### News Integration
 ![BWE News](screenshots/bwe-news.png)
-*Real-time news monitoring and filtering*
+
+
+## Truth Social Monitor
+<img width="313" alt="Screenshot 2025-05-30 at 13 06 58" src="https://github.com/user-attachments/assets/11d93b9b-16cf-4b1e-9d1c-5dc21f318ac1" />
+
+
 
 ---
 
