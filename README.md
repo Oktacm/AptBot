@@ -83,7 +83,7 @@ This Discord bot was developed to monitor various aspects of the Solana ecosyste
 - Performance metrics calculation
 - Rich embed data visualization
 
-### 🔴 Experimental/Deprecated Features
+### 🔴 Deprecated Features
 
 #### Auto.fun Monitor
 - Real-time token monitoring with proxy rotation
