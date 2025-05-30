@@ -20,6 +20,7 @@
 - [📊 Monitoring Services](#monitoring-services)
 - [🔧 Utilities & Infrastructure](#utilities--infrastructure)
 - [📝 Commands](#commands)
+- [📸 Bot Demonstration](#bot-demonstration)
 - [🏗️ Technical Architecture](#technical-architecture)
 - [📈 Portfolio Highlights](#portfolio-highlights)
 
@@ -144,6 +145,26 @@ This Discord bot was developed to monitor various aspects of the Solana ecosyste
 ### Configuration
 - `/help` - Channel setup and configuration
 - `/deploy` - Slash command deployment
+
+---
+
+## 📸 Bot Demonstration
+
+### Migration Monitoring in Action
+![Migration Monitoring](screenshots/bonding-command.png)
+*Real-time token migration tracking with market cap analysis*
+
+### DEX Payment Verification
+![DEX Checker](screenshots/dex-checker.png)
+*Automated payment status verification and monitoring*
+
+### Trader Data Export
+![Trader Export](screenshots/trader-export.png)
+*CSV export functionality with performance metrics*
+
+### News Integration
+![BWE News](screenshots/bwe-news.png)
+*Real-time news monitoring and filtering*
 
 ---
 
